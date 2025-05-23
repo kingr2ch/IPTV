@@ -1,3 +1,0 @@
-== IPTV ==
-
-Lista de canales
